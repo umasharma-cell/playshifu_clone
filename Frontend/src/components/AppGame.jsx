@@ -1,6 +1,6 @@
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 import { useRef, useState } from 'react';
-import './AppGame.css';
+import '../style/AppGame.css';
 
 const AppGame = () => {
      const appGames = [

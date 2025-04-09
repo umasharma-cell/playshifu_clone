@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import './ProductPage.css';
+import '../style/ProductPage.css';
 import {
   Search,
   ShoppingCart,

@@ -12,6 +12,7 @@ import {
   FaChevronDown,
   FaBars,
 } from "react-icons/fa";
+import "../style/footer.css"
 
 const Footer = () => {
   const companyStats = [
